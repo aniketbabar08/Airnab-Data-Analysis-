@@ -1,8 +1,9 @@
-# Airnab-Data-Analysis-
+# Airnab-Data-Analysis
 **Business Objective:**
 • The primary objective is to analyze Airbnb data to reveal insights into user experiences 
 and satisfaction levels with the numerous listed stays, all accomplished using Power
 BI.
+
 **Project Goals:**
 • Assessing District Location Scores: The aim is to pinpoint the location in the 
 district with the least favorable location scores.
